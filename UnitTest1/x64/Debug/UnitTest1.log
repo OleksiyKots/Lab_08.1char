@@ -1,0 +1,24 @@
+﻿  UnitTest1.cpp
+C:\Users\DellAs\source\repos\Lab_08.1char\UnitTest1\UnitTest1.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      C:\Users\DellAs\source\repos\Lab_08.1char\UnitTest1\UnitTest1.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\DellAs\source\repos\Lab_08.1char\UnitTest1\UnitTest1.cpp(1,9): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\DellAs\source\repos\Lab_08.1char\UnitTest1\UnitTest1.cpp(1,9):
+      Add macro to precompiled header instead of defining here
+      C:\Users\DellAs\source\repos\Lab_08.1char\UnitTest1\UnitTest1.cpp(2,1):
+      use of precompiled header
+  
+C:\Users\DellAs\source\repos\Lab_08.1char\Lab_08.1char.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\DellAs\source\repos\Lab_08.1char\Lab_08.1char.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\DellAs\source\repos\Lab_08.1char\Lab_08.1char.cpp(10,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\DellAs\source\repos\Lab_08.1char\Lab_08.1char.cpp(21,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+  UnitTest1.vcxproj -> C:\Users\DellAs\source\repos\Lab_08.1char\x64\Debug\UnitTest1.dll
